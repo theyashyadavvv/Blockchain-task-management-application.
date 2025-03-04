@@ -1,0 +1,12 @@
+.exit
+yash
+"file"
+.save
+"yash"
+.save
+yash
+.save
+exit
+file
+.save
+.help
